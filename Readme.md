@@ -5,7 +5,7 @@ O projeto consiste no desenvolvimento de um site de calculadora simples, que rea
 <h1>Tecnologias Usadas</h1>
 <strong>HTML</strong><br>
 <strong>CSS</strong><br>
-<strong>JavaScript</strong>
+<strong>JavaScript</strong><br>
 
 O layout da calculadora será composto por uma área de exibição dos números e resultados, além de botões para as operações e números. Será utilizada uma combinação de HTML e CSS para criar o layout e estilo da calculadora.
 
